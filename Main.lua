@@ -1,4 +1,6 @@
-local clonedfunc = clonefunction(loadstring) --don't judge my shit code i never planned on making public
+ --don't judge my shit code i never planned on making public
+--just run this before you run the script
+local clonedfunc = clonefunction(loadstring)
 
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/SiriusSoftwareLtd/Rayfield/main/source.lua'))()
 
